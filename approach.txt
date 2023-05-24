@@ -6,4 +6,8 @@ Define Clear Objectives: Clearly define the goals and objectives of your test au
 
 Choose the Right Tools: Selecting the right test automation tools is essential. Consider factors such as the application type, programming languages used, ease of use, community support, and integration capabilities with your existing development and testing tools. Popular automation tools include Selenium, Appium, Cypress, and Robot Framework.
 
+
 Mocha is a popular JavaScript testing framework primarily used for testing Node.js applications and browser-based JavaScript applications. It provides a flexible and feature-rich environment for writing and executing tests, making it a preferred choice for many developers.
+
+Selenium is a widely adopted open-source test automation framework used for automating web browsers. It provides a suite of tools and libraries that allow testers to interact with web elements, simulate user actions, and validate expected outcomes. Selenium supports multiple programming languages, making it flexible and accessible for testers across different technology stacks. Its robust features, such as cross-browser compatibility and integration with various testing frameworks, have made it a popular choice for automating web applications.
+
