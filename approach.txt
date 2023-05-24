@@ -5,3 +5,5 @@ Test automation is a crucial aspect of software development and testing processe
 Define Clear Objectives: Clearly define the goals and objectives of your test automation effort. Identify the specific areas or scenarios that need automation and the expected benefits. This will help you prioritize your automation efforts effectively.
 
 Choose the Right Tools: Selecting the right test automation tools is essential. Consider factors such as the application type, programming languages used, ease of use, community support, and integration capabilities with your existing development and testing tools. Popular automation tools include Selenium, Appium, Cypress, and Robot Framework.
+
+Mocha is a popular JavaScript testing framework primarily used for testing Node.js applications and browser-based JavaScript applications. It provides a flexible and feature-rich environment for writing and executing tests, making it a preferred choice for many developers.
